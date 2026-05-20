@@ -1,7 +1,7 @@
 # Higgs Boson Classification – Tái hiện & Cải tiến bài báo IRJET 2021
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/HiggsBoson-Classification/blob/main/HiggsBoson_IRJET_Full.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/HiggsBoson-Classification/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VwiPBQMmF4Ara1YDbGxCkFqB_nqFFX4N?usp=sharing)
+[![(https://www.irjet.net/archives/V8/i12/IRJET-V8I12264.pdf)]]
 
 ##  Tổng quan
 
